@@ -1,0 +1,13 @@
+{
+    "env": {
+        "browser": true,
+        "es6": true
+    },
+    "rules": {
+        "semi": "error",
+        "quotes": [
+            "error",
+            "single"
+        ]
+    }
+}
