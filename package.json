@@ -1,12 +1,12 @@
 {
   "name": "google-translate-electron",
   "version": "1.0.0",
-  "description": "Open Google Translate desktop",
+  "description": "Open Google Translate at Desktop",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/electron/electron-quick-start",
+  "repository": "https://github.com/laissonsilveira/google-translate-electron.git",
   "keywords": [
     "Electron",
     "google",
@@ -19,7 +19,7 @@
     "email": "laisson.r.silveira@gmail.com",
     "url": "https://laissonsilveira.github.io"
   },
-  "license": "UNLICEND",
+  "license": "UNLICENSED",
   "devDependencies": {
     "electron": "^4.0.7"
   }
