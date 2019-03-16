@@ -4,7 +4,7 @@
   "description": "Open Google Translate at Desktop",
   "main": "main.js",
   "scripts": {
-    "start": "electron ."
+    "start": "electron . > /dev/null&"
   },
   "repository": "https://github.com/laissonsilveira/google-translate-electron.git",
   "keywords": [
